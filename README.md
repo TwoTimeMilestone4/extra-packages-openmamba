@@ -38,7 +38,7 @@ We also maintain select proprietary/non-OSS packages that users may require, inc
 
 1. **Add the repository**
    ```bash
-   sudo dnf5 config-manager addrepo --from-repofile=https://runnertechhype.github.io/extra-packages-openmamba/extra-packages-openmamba.repo
+   sudo dnf5 config-manager addrepo --from-repofile=https://twotimemilestone4.github.io/extra-packages-openmamba/extra-packages-openmamba.repo
    ```
 
 2. **Update your package manager**
